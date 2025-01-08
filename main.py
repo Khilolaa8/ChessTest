@@ -22,3 +22,5 @@ print(fil_check(5, 5, 3, 3))
 print(ot_check(4, 4, 6, 5))
 print(farzin_check( 1,1, 1, 1))
 print(shoh_check(4, 4, 5, 5))
+
+#git hub add code
